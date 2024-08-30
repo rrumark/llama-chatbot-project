@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+docx2txt
+pymupdf
+sentence-transformers
+faiss-cpu
+streamlit
+pyngrok
